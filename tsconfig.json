@@ -1,0 +1,25 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./",
+		"resolveJsonModule": true,
+		"forceConsistentCasingInFileNames": true,
+		"target": "es2020",
+		"module": "commonjs",
+		"declaration": true,
+		"moduleResolution": "node",
+		"noFallthroughCasesInSwitch": true,
+		"noImplicitReturns": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"pretty": true,
+		"removeComments": true,
+		"sourceMap": true,
+		"declarationMap": true,
+		"strict": true,
+		"strictNullChecks": true,
+		"outDir": "lib",
+		"esModuleInterop": true
+	},
+	"include": ["src", "test"],
+	"exclude": ["node_modules"]
+}

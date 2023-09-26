@@ -1,4 +1,4 @@
-@chainsafe/web3-plugin-template
+web3-plugin-template
 ===========
 
 Contributing

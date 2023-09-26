@@ -1,12 +1,12 @@
 {
-  "name": "@chainsafe/web3-plugin-template",
+  "name": "web3-plugin-template",
   "version": "1.0.0",
   "description": "Template plugin to extend web3.js with additional methods",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "homepage": "https://github.com/ChainSafe/web3.js-plugin-template#readme",
+  "homepage": "https://github.com/web3/web3.js-plugin-template#readme",
   "bugs": {
-    "url": "https://github.com/ChainSafe/web3.js-plugin-template/issues"
+    "url": "https://github.com/web3/web3.js-plugin-template/issues"
   },
   "scripts": {
     "lint": "eslint '{src,test}/**/*.ts'",
@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:chainsafe/web3-plugin-template.git"
+    "url": "git@github.com:web3/web3.js-plugin-template.git"
   },
   "dependencies": {
   },
